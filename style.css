@@ -1,0 +1,51 @@
+body {
+	background-image: url(https://drive.google.com/uc?id=10yMYST9VaL4pCseD489JILxSXAcj6jQC) ;
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+ 	background-size: cover;
+}
+h1 {
+	text-align: left;
+ 	background-color: indianred;
+ 	padding: 30px;
+ 	color: white;
+ 	font-family: Calibri;
+ 	font-size: 300%;
+}
+h2	{ 
+	padding: 30px ;
+	color: black ;
+	text-align: center;
+	font-family: century gothic ;
+	font-size: 115%;
+}
+a {
+  background-color: salmon;
+  color: white;
+  font-size: 75%;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+h3 {
+	color: indianred;
+	font-family: Calibri;
+	font-size: 200%;
+}
+img {
+   width: 470px;
+   border-radius: 50%;
+}
+ul {
+	color: black;
+ 	text-align: justify;
+ 	font-family: Century gothic;
+ 	font-size: 100%;
+}
+p {
+	color: black;
+	text-align: justify;
+	font-family: Century gothic;
+	font-size: 100%;
+}
